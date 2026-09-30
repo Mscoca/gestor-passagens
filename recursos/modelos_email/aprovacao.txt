@@ -1,0 +1,12 @@
+Prezados, {saudacao}.
+
+Segue em anexo a pré-reserva de {tipo_minusculo} referente ao pedido Nº {numero}/{ano} para análise e aprovação.
+
+Antes da aprovação, é responsabilidade do requisitante conferir todos os dados da passagem. Considerando a operação com {qtd_empresas} empresas credenciadas, essa conferência é indispensável para evitar eventuais divergências na emissão.
+
+Passageiro(a): {nomes_passageiros}
+
+Obs: Prazo para aprovação: até {prazo_data_dd/mm}, {prazo_hora}, para emissão dos bilhetes.
+
+Atenciosamente,
+{assinatura}

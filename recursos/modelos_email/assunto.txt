@@ -1,0 +1,1 @@
+Pedido {numero} - PJ {projeto} | Cotação {tipo_extenso} - {finalidade_ou_resumo}

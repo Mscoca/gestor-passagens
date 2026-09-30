@@ -1,0 +1,8 @@
+Prezados, {saudacao}!
+
+Solicito a cotação de {tipo_minusculo} com as seguintes especificações, contendo o valor total ao final.
+
+{bloco_especificacoes}
+
+Atenciosamente,
+{assinatura}
